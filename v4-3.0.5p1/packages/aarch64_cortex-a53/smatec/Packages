@@ -18,10 +18,10 @@ Section: lang
 URL: https://smatec.com.vn
 CPE-ID: cpe:/a:smt:mgw
 Architecture: aarch64_cortex-a53
-Installed-Size: 880640
+Installed-Size: 911360
 Filename: python3-mgw_V4_SV6_3.0.5-1_aarch64_cortex-a53.ipk
-Size: 261208
-SHA256sum: c274df59ba36290415b74039ed6084b4f1bac713106e2d1446e3d2b8a69b6cf6
+Size: 271727
+SHA256sum: 1e3e98cee03d02e9e2065c885faa3c5f3cb936aabf29f307af30c4aa0d9ebcf2
 Description:  Smatec M-Gateway
  .
  (Variant for Python3)
