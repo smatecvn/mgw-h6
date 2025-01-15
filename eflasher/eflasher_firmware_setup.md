@@ -117,3 +117,7 @@ mpd
 openwrt-sunxi-cortexa53-xunlong_orangepi-zero2w-squashfs-sdcard.img.gz
 root@MIRA:/mnt/mmcblk0p1#
 ```
+## 4. Test thẻ nhớ sau khi copy thành công
+```bash
+root@MIRA:/mnt/mmcblk0p1# /etc/init.d/eflasher start
+```
