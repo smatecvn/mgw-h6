@@ -9,8 +9,8 @@ URL: https://smatec.com.vn
 Architecture: aarch64_cortex-a53
 Installed-Size: 102400
 Filename: mgw_h618-bsp_2_aarch64_cortex-a53.ipk
-Size: 19190
-SHA256sum: 9ce4249b65e3e147f1f0971c850160d44d3a096d6b29dc26c195d6738344ef9a
+Size: 19222
+SHA256sum: a166fb87c77732ed5fb9839c288fa2b07bd069794f52b1c8df051523ba5be1b8
 Description:  MGW_H618 Board Support Package
 
 Package: python3-mgw

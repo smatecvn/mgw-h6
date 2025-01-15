@@ -1316,8 +1316,8 @@ URL: https://www.musicpd.org/
 Architecture: aarch64_cortex-a53
 Installed-Size: 1136640
 Filename: mpd-full_0.23.13-1_aarch64_cortex-a53.ipk
-Size: 469195
-SHA256sum: 1d661acc0b8e0c5c931e8329fbcd4154b57ed0a8c2cea2eb3254d79a691f398d
+Size: 469397
+SHA256sum: 73727c18cef5717a14f345be250c5e3026148dfc60a871c23081b7e7d2d86a61
 Description:  Music Player Daemon (MPD) is a flexible, powerful, server-side
  application for playing music. It is typically controlled over a
  network using one of it's many clients including mpc (console),
@@ -2336,8 +2336,8 @@ Maintainer: Tony Ambardar <itugrok@yahoo.com>
 Architecture: all
 Installed-Size: 20480
 Filename: speedtest-netperf_1.0.0-1_all.ipk
-Size: 5692
-SHA256sum: ae15eef587e2afe70860f48395d6ff07650514a930b2a02e17b32a0842a55343
+Size: 5783
+SHA256sum: 2154db746741299b3912c7e1dcd50fe9f85125ddf0642307045ea67672c1e6b6
 Description:  Script to measure the performance of your network and router.
  
  Please see https://github.com/openwrt/packages/blob/master/net/speedtest-netperf/files/README.md for further information.
@@ -2357,8 +2357,8 @@ Maintainer: Jan Pavlinec <jan.pavlinec1@gmail.com>
 Architecture: aarch64_cortex-a53
 Installed-Size: 21790720
 Filename: tailscale_1.58.2-1_aarch64_cortex-a53.ipk
-Size: 8363709
-SHA256sum: 25d4ecfcec97c923f02054ad1a9b9c956c2144f52cd0ea8d684c4885fcd5735c
+Size: 8363754
+SHA256sum: e4a3811c49fabef8061000d6fd22b438f8854cb8da46fa6f604da8812e82b23d
 Description:  It creates a secure network between your servers, computers,
  and cloud instances. Even when separated by firewalls or subnets.
 
