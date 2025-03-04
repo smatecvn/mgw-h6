@@ -543,6 +543,26 @@ SHA256sum: abdc3d521cfe640b0230c375da11bd786b79cb96edc7ae787a5c4faee8dfbf69
 Description:  This package contains an heterogeneous set of I2C tools for Linux. These tools
  were originally part of the lm-sensors package.
 
+Package: iputils-ping
+Version: 20211215-2
+Depends: libc, kmod-crypto-md5
+Provides: iputils-ping6
+Source: feeds/packages/net/iputils
+SourceName: iputils
+License: BSD-3-Clause
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1735626928
+URL: https://github.com/iputils/iputils
+CPE-ID: cpe:/a:iputils_project:iputils
+Maintainer: Noah Meyerhans <frodo@morgul.net>
+Architecture: aarch64_cortex-a53
+Installed-Size: 71680
+Filename: iputils-ping_20211215-2_aarch64_cortex-a53.ipk
+Size: 30140
+SHA256sum: a158a20d3e3d1fd79fe16f80ad60c77869886e0a01f9dd17cc0483b9c422c7dc
+Description:  Send ICMP_ECHOREQUEST packets to IP hosts and report on replies
+
 Package: lame-lib
 Version: 3.100-1
 Depends: libc

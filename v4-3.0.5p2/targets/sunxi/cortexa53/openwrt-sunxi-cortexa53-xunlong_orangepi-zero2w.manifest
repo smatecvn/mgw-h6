@@ -37,11 +37,12 @@ iwinfo - 2023-07-01-ca79f641-1
 jansson4 - 2.14-3
 jshn - 2023-12-04.1-ca3f6d0c-1
 jsonfilter - 2024-01-23-594cfa86-1
-kernel - 6.1.74-1-b9a8c04d9f1f8cd4e451468697296753
+kernel - 6.1.74-1-1b62fb6591b9c6d59beaf2bfa9ceeef9
 kmod-asn1-decoder - 6.1.74-1
 kmod-cfg80211 - 6.1.74+6.5-2
 kmod-crypto-crc32c - 6.1.74-1
 kmod-crypto-hash - 6.1.74-1
+kmod-crypto-md5 - 6.1.74-1
 kmod-gpio-button-hotplug - 6.1.74-3
 kmod-i2c-core - 6.1.74-1
 kmod-input-core - 6.1.74-1
