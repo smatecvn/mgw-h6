@@ -1,5 +1,1 @@
-src-git packages https://git.openwrt.org/feed/packages.git^c33c6cf062f97115cdebe5f10cba14223cf25124
-src-git luci https://git.openwrt.org/project/luci.git^75d2b84e014d2f877e667040ebc4efd9ebb22e55
-src-git routing https://git.openwrt.org/feed/routing.git^be6e1a44582451172fac68f241138936f80d7734
-src-git telephony https://git.openwrt.org/feed/telephony.git^98c8a5aa4624312ed758e2e2b6d4039050a1649d
 src-link smatec /home/user/archive-master/smatec-sv6-eflasher

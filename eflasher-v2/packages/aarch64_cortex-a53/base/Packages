@@ -10,8 +10,8 @@ Essential: yes
 Architecture: aarch64_cortex-a53
 Installed-Size: 542720
 Filename: busybox_1.36.1-1_aarch64_cortex-a53.ipk
-Size: 239636
-SHA256sum: cdaf68574f9c7deaa926c82e1921aa814eff3446119e08a557eab39ad358c491
+Size: 239646
+SHA256sum: ff67c8315579d1fdb699ca4b671cb6bc49601737622b4950d4d11c1933cfd292
 Description:  The Swiss Army Knife of embedded Linux.
  It slices, it dices, it makes Julian Fries.
 
@@ -164,9 +164,35 @@ CPE-ID: cpe:/a:w1.fi:hostapd
 Architecture: aarch64_cortex-a53
 Installed-Size: 81920
 Filename: hostapd-common_2023-09-08-e5ccbfc6-6_aarch64_cortex-a53.ipk
-Size: 17004
-SHA256sum: d39a1eb850411e25d8dc0cc70500219d408c1a0751cb4da60b7f9cf967f73007
+Size: 17013
+SHA256sum: 757e09001452333af71e4024de59dbfb407d32020fd3e932818bda99bdf4ebd7
 Description:  hostapd/wpa_supplicant common support files
+
+Package: iw
+Version: 5.19-1
+Depends: libc, libnl-tiny1
+License: GPL-2.0
+Section: net
+URL: http://wireless.kernel.org/en/users/Documentation/iw
+CPE-ID: cpe:/a:kernel:iw
+Architecture: aarch64_cortex-a53
+Installed-Size: 143360
+Filename: iw_5.19-1_aarch64_cortex-a53.ipk
+Size: 52638
+SHA256sum: 534050fac5a87734c43ba139664fcd5082af8eb890fca0dcc4868297052a7c71
+Description:  cfg80211 interface configuration utility
+
+Package: iwinfo
+Version: 2023-07-01-ca79f641-1
+Depends: libc, libiwinfo20230701
+License: GPL-2.0
+Section: utils
+Architecture: aarch64_cortex-a53
+Installed-Size: 71680
+Filename: iwinfo_2023-07-01-ca79f641-1_aarch64_cortex-a53.ipk
+Size: 8153
+SHA256sum: 41688f9484e5a7f8421e237c219720f832d7653bfc791cab1d34896c1e988d72
+Description:  Command line frontend for the wireless information library.
 
 Package: jansson4
 Version: 2.14-3
@@ -1440,6 +1466,18 @@ Filename: usign_2020-05-23-f1f65026-1_aarch64_cortex-a53.ipk
 Size: 12426
 SHA256sum: d9c0d22856d16c57a47c72b229e10c15c3123dc1de95cf733efdec2d5516206c
 Description:  OpenWrt signature verification utility
+
+Package: wireless-regdb
+Version: 2023.09.01-1
+Depends: libc
+Section: firmware
+URL: https://git.kernel.org/pub/scm/linux/kernel/git/sforshee/wireless-regdb.git/
+Architecture: all
+Installed-Size: 10240
+Filename: wireless-regdb_2023.09.01-1_all.ipk
+Size: 3067
+SHA256sum: 0162c8e67e63b5cd86382dbb3dd900af534d9027a0ed06b5b5bafaabd180f6ec
+Description:  Wireless Regulatory Database
 
 Package: wpa-supplicant
 Version: 2023-09-08-e5ccbfc6-6
