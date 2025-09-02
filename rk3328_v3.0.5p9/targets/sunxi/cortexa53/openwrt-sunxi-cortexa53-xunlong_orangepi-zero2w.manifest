@@ -190,6 +190,7 @@ lua - 5.1.5-10
 luci - git-24.364.71483-75d2b84
 luci-app-firewall - git-24.364.71483-75d2b84
 luci-app-opkg - git-24.364.71483-75d2b84
+luci-app-statistics - git-24.364.71483-75d2b84
 luci-base - git-24.364.71483-75d2b84
 luci-compat - git-24.364.71483-75d2b84
 luci-lib-base - git-24.364.71483-75d2b84

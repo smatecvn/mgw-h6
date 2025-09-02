@@ -137,6 +137,7 @@ CONFIG_PACKAGE_libvorbisidec=y
 CONFIG_PACKAGE_lm-sensors=y
 CONFIG_PACKAGE_lsblk=y
 CONFIG_PACKAGE_lscpu=y
+CONFIG_PACKAGE_luci-app-statistics=y
 CONFIG_PACKAGE_madplay=y
 CONFIG_PACKAGE_mgw_h618-bsp=y
 CONFIG_PACKAGE_mpc=y
