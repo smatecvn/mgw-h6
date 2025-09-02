@@ -1140,8 +1140,8 @@ CPE-ID: cpe:/a:pulseaudio:pulseaudio
 Architecture: aarch64_cortex-a53
 Installed-Size: 6533120
 Filename: pulseaudio-daemon_14.2-10_aarch64_cortex-a53.ipk
-Size: 1044385
-SHA256sum: 06b8df26bc13ee78353b8b931870ce0729dcfbbf148eb47ad05bfb94eb53a82e
+Size: 1044395
+SHA256sum: bb7afb5d6853fdf45a483f60c745763043b1a288c7bb49339a1d3876476596b1
 Description:  PulseAudio (formerly Polypaudio) is a cross-platform, networked sound server.
 
 Package: python3-asyncio
