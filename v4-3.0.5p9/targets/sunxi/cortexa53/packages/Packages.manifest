@@ -866,8 +866,8 @@ SourceDateEpoch: 1705334396
 Architecture: aarch64_cortex-a53
 Installed-Size: 61440
 Filename: kmod-usb-serial-option_6.1.74-1_aarch64_cortex-a53.ipk
-Size: 6501
-SHA256sum: 37ba993866d6d8304235c3c0a9e1322db9aad0374e34d24ffdc52f5c221cd268
+Size: 6560
+SHA256sum: 132255e0932bd5dcee7dea0b7aa5b741ead3845cd5763abe2bc20a3ec679b0f0
 Description:  Kernel support for Option HSDPA modems
 
 Package: kmod-usb-serial-wwan
