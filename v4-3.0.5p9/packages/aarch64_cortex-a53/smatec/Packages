@@ -7,7 +7,7 @@ Architecture: aarch64_cortex-a53
 Installed-Size: 122880
 Filename: mgw_h618-bsp_2_aarch64_cortex-a53.ipk
 Size: 20474
-SHA256sum: 672665d1cd17243a0abff52cb04c16e28e3620a37099a88cef77b80ce29ce720
+SHA256sum: cab9348a1088f97ea741a12752d5b3e1059b73be235d51bb67b84afd2adf357e
 Description:  MGW_H618 Board Support Package
 
 Package: python3-mgw
