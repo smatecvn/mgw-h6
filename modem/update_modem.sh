@@ -145,8 +145,17 @@ echo "[1/5] Stopping services..."
 
 /etc/init.d/cron stop 2>/dev/null
 
-pkill -9 -f "/usr/bin/mgwp_app" 2>/dev/null
-pkill -9 -f "python /usr/lib/python3.9/site-packages/mgw3/mgwp.pyc" 2>/dev/null
+MGWP_APP_PID=$(pgrep -f /usr/bin/mgwp_app)
+for pid in $MGWP_APP_PID
+do
+    kill -9 $pid
+done
+
+MGWP_PROCESSES_PID=$(pgrep -f "python /usr/lib/python3.11/site-packages/mgw3/mgwp.pyc")
+for pid in $MGWP_PROCESSES_PID
+do
+    kill -9 $pid
+done
 
 sleep 2
 
