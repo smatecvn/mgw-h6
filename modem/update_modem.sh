@@ -194,9 +194,9 @@ if grep -q "Burn Successfully" "$LOGFILE"; then
 
     echo "Restarting modem..."
 
-    mraa-gpio set 37 0
+    echo 0 > /sys/class/gpio/gpio204/value
     sleep 3
-    mraa-gpio set 37 1
+    echo 1 > /sys/class/gpio/gpio204/value
 
     echo "Modem rebooted"
 
