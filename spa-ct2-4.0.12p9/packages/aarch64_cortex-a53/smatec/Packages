@@ -4,10 +4,10 @@ Depends: libc, coreutils, coreutils-timeout, htop, lscpu, alsa-utils, aria2, fdi
 Section: utils
 URL: https://smatec.com.vn
 Architecture: aarch64_cortex-a53
-Installed-Size: 122880
+Installed-Size: 133120
 Filename: mgw_h618-bsp_2_aarch64_cortex-a53.ipk
-Size: 20325
-SHA256sum: 7d4c2fcec5d91b48d9400d431d41af7c1a1db093aa5d1745c6a13fc2690756fc
+Size: 21713
+SHA256sum: be6c1be33d68b011adcdeb1beec97940e15a429e54ce7e781aefadbb6dc9c230
 Description:  MGW_H618 Board Support Package
 
 Package: python3-mgw
