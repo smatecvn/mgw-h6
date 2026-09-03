@@ -1091,8 +1091,8 @@ URL: https://www.musicpd.org/
 Architecture: aarch64_cortex-a53
 Installed-Size: 1136640
 Filename: mpd-full_0.23.13-1_aarch64_cortex-a53.ipk
-Size: 469364
-SHA256sum: c7adf6a73fd522d1fb595802568370250422d9cc94c0d8c7553c8360489c7cf4
+Size: 469403
+SHA256sum: 7a62e534e2266d7b3e821d3b9b2d145f4176bcffe73d53f5cc6b09e3ffd8dcd0
 Description:  Music Player Daemon (MPD) is a flexible, powerful, server-side
  application for playing music. It is typically controlled over a
  network using one of it's many clients including mpc (console),
@@ -1172,7 +1172,7 @@ Architecture: aarch64_cortex-a53
 Installed-Size: 6533120
 Filename: pulseaudio-daemon_14.2-10_aarch64_cortex-a53.ipk
 Size: 1044817
-SHA256sum: 0d11de0dda8206eaf51d80fb27674b335ac540018895246d437dac4f8324c11a
+SHA256sum: 65ff70f3cf93b4c2c0ddab0908c0cd307d6df069911cef70b260dfe698108b3c
 Description:  PulseAudio (formerly Polypaudio) is a cross-platform, networked sound server.
 
 Package: python3-asyncio
